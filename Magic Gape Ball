@@ -1,0 +1,10 @@
+import random
+
+prob = random.random()
+print prob
+
+
+ans1 = Yes
+ans2 = No
+ans3 = Maybe
+ans4 = 
